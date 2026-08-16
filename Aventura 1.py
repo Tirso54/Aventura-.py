@@ -22,5 +22,5 @@ elif personaje==3:
   personaje=="Mago"
 else:
   print("No te e entendido")
-  Print("Eres "ladron)
-  
+  Print("Eres ladron")
+  print("Eres", personaje ,"y tienes" ,monedas,"monedas")  
