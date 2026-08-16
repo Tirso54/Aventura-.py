@@ -16,3 +16,6 @@ elif personaje==2:
   personaje ="Ladron
 elif personaje==3:
   personaje=="Mago"
+else:
+  print("No te e entendido")
+  Print("Eres "ladron)
