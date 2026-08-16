@@ -1,3 +1,6 @@
 print("="*40)
 print("La aventura a empezado")
 print("="*40)
+Print("Un anciano te pregunta tu nombre")
+nombre=input("Di tu nombre")
+print("Hola",nombre)
