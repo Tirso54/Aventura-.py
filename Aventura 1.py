@@ -28,4 +28,6 @@ print("Sigue caminando y te encuentras un cofre")
 cofre=input("Quieres abrir el cofre (si,o)")
 if cofre="si":
 print(Habia 20 monedas)
-monedas=monedas+20
+print("Tienes"monedas=monedas+20"monedas")
+print(De repente te encuentras con un duende que te pide 15 monedas para continuar )
+duende=input("Atacar darle las 15 monedas o intentar esquivar (1,2,3) ")
