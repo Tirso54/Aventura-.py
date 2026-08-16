@@ -25,4 +25,7 @@ else:
   Print("Eres ladron")
 print("Eres", personaje ,"y tienes" ,monedas,"monedas") 
 print("Sigue caminando y te encuentras un cofre")
-cofre=
+cofre=input("Quieres abrir el cofre (si,o)")
+if cofre="si":
+print(Habia 20 monedas)
+monedas=monedas+20
