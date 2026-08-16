@@ -23,4 +23,6 @@ elif personaje==3:
 else:
   print("No te e entendido")
   Print("Eres ladron")
-  print("Eres", personaje ,"y tienes" ,monedas,"monedas")  
+print("Eres", personaje ,"y tienes" ,monedas,"monedas") 
+print("Sigue caminando y te encuentras un cofre")
+cofre=
