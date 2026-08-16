@@ -9,3 +9,10 @@ print("Quien quieres ser")
 print("Guerrero    30 de vida y 10 de ataque")
 print("Ladron    20 de vida y 20 de ataque ")
 print("Mago     27 de vida y 13 de ataque  ")
+personaje=input("Quien quieres ser (1,2,3")
+if personaje== 1:
+  personaje="Guerrero"
+elif personaje==2:
+  personaje ="Ladron
+elif personaje==3:
+  personaje=="Mago"
